@@ -3,7 +3,7 @@ This repo contains my work for the course, STA303: Method of Data Analysis II at
 
 # Table of Contents
 * [Data Exploration](#Data-Exploration)
-* [MixedAssessment1](#Mixed-Assessment I)
+* [Mixed Assessment1](#Mixed-Assessment I)
 * [Mixed Assessment2](#Mixed-Assessment II)
 * [Consulting Project](#Consulting-Project)
 
