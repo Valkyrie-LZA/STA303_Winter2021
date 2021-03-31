@@ -7,13 +7,18 @@ This repo contains my work for the course, STA303: Method of Data Analysis II at
 * [Mixed Assessment II](#Mixed-Assessment-II)
 * [Consulting Project](#Consulting-Project)
 
-
-
-
 ## Data Exploration
-This is an R-based instructed course project about fitting a multiple linear model for Toronto and Missisauga House Prices in the course STA 302:Applied Regression Analysis.
+Background info
 
-The data was obtained from the Toronto Real Estate Board(TREB) on detached houses in two separate neighborhoods in the Great Toronto Area, the city of Toronto and the city of Mississauga.
+R-based instructed course project about wrangling raw data and constructing analytical plot about COVID-19 in Toronto.
+Tasks ofinterest:
+* Daily increasing cases 
+* Outbreak type
+* Percentage of 18 to 64 year-olds low income group in Toronto’s 140 neighbourhoods.
+* Number of COVID-19 cases per 100,000 people in each neighbourhood.
+* Correlation between cases, income group and neighbourhood.
+
+The data was obtained  from Ontario Ministry of Health, Integrated Public Health Information System and CORES & Census Profile 98−316−X2016001 via OpenData Toronto
 
 Please see R code.rmd and/or output.html for more report and analysis details.
 
@@ -22,7 +27,7 @@ Project is created with:
 * R version 4.0.3
 * R studio version 1.3.1093
 	
-## Setup
+## Mixed Assessment II
 To run this project, one needs to install the following packages for data manipulation and visualization:
 
 ```
