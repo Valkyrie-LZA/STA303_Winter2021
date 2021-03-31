@@ -3,8 +3,8 @@ This repo contains my work for the course, STA303: Method of Data Analysis II at
 
 # Table of Contents
 * [Data Exploration](#Data-Exploration)
-* [Mixed Assessment1](#Mixed-Assessment-I)
-* [Mixed Assessment2](#Mixed-Assessment-II)
+* [Mixed Assessment I](#Mixed-Assessment-I)
+* [Mixed Assessment II](#Mixed-Assessment-II)
 * [Consulting Project](#Consulting-Project)
 
 
@@ -17,7 +17,7 @@ The data was obtained from the Toronto Real Estate Board(TREB) on detached house
 
 Please see R code.rmd and/or output.html for more report and analysis details.
 
-## Mixed Assessment1
+## Mixed Assessment I
 Project is created with:
 * R version 4.0.3
 * R studio version 1.3.1093
