@@ -10,7 +10,8 @@ This repo contains my work for the course, STA303: Method of Data Analysis II at
 ## Data Exploration
 Background info
 
-R-based instructed course project about wrangling raw data and constructing analytical plot about COVID-19 in Toronto.
+Wrangling the most up-to-date COVID data for the City of Toronto and constructing various plots to analyize the following things of interest. 
+
 Tasks ofinterest:
 * Daily increasing cases 
 * Outbreak type
