@@ -26,9 +26,20 @@ Data obtained
 Please see rmd and/or pdf under the folder submission work for more report and analysis details.
 
 ## Mixed Assessment I
-Project is created with:
-* R version 4.0.3
-* R studio version 1.3.1093
+Background info
+
+Wrangling the fictional crew member data on the starfleet and carry out statistical Analysis to better understand the productivity abroad on the fleet.
+
+Tasks ofinterest
+* Name of ship, communication officer,number of crews
+* Relationship between prodcutivity and duty shift
+* Excluding the effect of rank, position, division, sub-division or gender and adjust analysis to team size
+* Find out who spotted plants from the greatest number of different planets or systemsin the hotel gardens.
+
+Data obtained
+* randomNames package and themyStarshippackage from GitHub
+
+Please see rmd and/or pdf under the folder submission work for more report and analysis details.
 	
 ## Mixed Assessment II
 To run this project, one needs to install the following packages for data manipulation and visualization:
