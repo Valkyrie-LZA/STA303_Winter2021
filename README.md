@@ -1,4 +1,6 @@
 # STA303 Winter2021
+Under the Instruction by Prof. Liza Bolton.
+
 This repo contains my work for the course, STA303: Method of Data Analysis II at University of Toronto.
 
 # Table of Contents
